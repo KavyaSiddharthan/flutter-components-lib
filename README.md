@@ -10,6 +10,9 @@
 <br />
 
 <div align="center">
+  <a href="https://github.com/KavyaSiddharthan/flutter-components-lib/actions/workflows/build.yml">
+    <img src="https://github.com/KavyaSiddharthan/flutter-components-lib/actions/workflows/build.yml/badge.svg" alt="Flutter CI" />
+  </a>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/UI_UX-E2F163?style=for-the-badge&logo=figma&logoColor=black" alt="UI UX" />
